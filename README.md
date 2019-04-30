@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo for the first data scientist courde project
+Repo for the first data scientist course project
